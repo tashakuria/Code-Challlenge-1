@@ -1,7 +1,5 @@
 
-Tasha <t4shas.paws@gmail.com>
-12:11 AM (35 minutes ago)
-to me
+
 
 # JavaScript Console-Based Calculators
 
